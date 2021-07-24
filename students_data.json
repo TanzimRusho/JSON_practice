@@ -1,0 +1,49 @@
+﻿{
+  "students": [
+    {
+      "name": "abc",
+      "middle_name": null,
+      "age": 25,
+      "cgpa": 3.45,
+      "isRegistered": true,
+      "languages": [
+        "Bangla",
+        "English",
+        "Hindi"
+      ],
+      "friends": [
+        {
+          "name": "def",
+          "age": 34
+        },
+        {
+          "name": "ghi",
+          "age": 35
+        }
+      ]
+    },
+    {
+      "name": "klm",
+      "middle_name": null,
+      "age": 28,
+      "cgpa": 3.92,
+      "isRegistered": false,
+      "languages": [
+        "Bangla",
+        "English",
+        "Hindi",
+        "Japanese"
+      ],
+      "friends": [
+        {
+          "name": "def",
+          "age": 34
+        },
+        {
+          "name": "rst",
+          "age": 37
+        }
+      ]
+    }
+  ]
+}
