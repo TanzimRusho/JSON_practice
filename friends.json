@@ -1,14 +1,1 @@
-{
-  "friends": [
-    {
-        "name": "xyz",
-        "age": 32
-    },
-    
-    {
-        "name": "abc",  
-        "age": 29
-    }
-  
-  ] 
-}
+{"friends":[{"name":"xyz","age":32},{"name":"abc","age":29}]}
